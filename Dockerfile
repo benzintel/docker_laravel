@@ -1,0 +1,1 @@
+RUN sh start.sh install
